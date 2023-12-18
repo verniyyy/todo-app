@@ -1,0 +1,4 @@
+.vscode
+volumes
+*.session.sql
+log.json
